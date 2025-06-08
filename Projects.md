@@ -3,7 +3,7 @@
 
 The Open Worldwide Application Security Project (OWASP) is an international non-profit organization which aims to enhance the security of software applications. Throughout its existence, it has developed many primary documents, resources, tools, and tutorials designed to assist applicaton security professionals and developers in understanding and managing application security risks. Summarized above are the most important projects and tools from OWASP:
 
-<b>1. OWASP Top 10</b>
+<b>1. OWASP Top 10</b><br>
 The OWASP Top 10 is the primary awareness document of OWASP which emphasizes the most critical security issues related to web applications. It’s updated every few years, with the latest version (as of 2021) prioritizing concerns using actual data. The list, from most to least severe, includes:
 
 <ul>
