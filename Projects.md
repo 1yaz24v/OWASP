@@ -90,6 +90,3 @@
     OWASP remains one of the most authoritative and accessible sources for application security knowledge.
     Its resources—from risk awareness documents to practical testing tools—are widely used across the industry to improve security in both development and operations.
   </p>
-
-</body>
-</html>
